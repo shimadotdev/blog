@@ -1,8 +1,8 @@
 +++
 title = 'Docker Guide for Beginners: Keywords in Docker'
-description = 'In recent years, we have frequently heard the name “Docker.” The following article is a simple and easy guide to familiarize beginners with Docker and its basic concepts, along with exercises. Join us on this journey.'
+description = "This article offers a beginner-friendly guide to Docker, covering core concepts such as the Docker Engine, Dockerfile, images, and containers. It explains the roles of volumes and the Union File System in Docker's architecture."
 date = 2018-08-21
-tags= ["Docker For Beginners", "UnionFS", "Dockerfile"]
+tags = ["Docker For Beginners", "UnionFS", "Dockerfile"]
 draft = false
 +++
 
