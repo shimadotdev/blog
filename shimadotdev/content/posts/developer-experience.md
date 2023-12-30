@@ -1,5 +1,7 @@
 +++
 title = 'Developer Experience'
+description = 'The importance of Developer Experience (DX) in API development, emphasizing simplicity in understanding, usability, and support. It recommends steps like comprehensive documentation for an enhanced developer experience.'
+
 date = 2017-07-21
 draft = false
 tags= ["DX", "developer experience", "good api"]
