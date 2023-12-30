@@ -1,6 +1,6 @@
 +++
 title = 'SSH connection to GitLab with more than one user account.'
-description = "This article offers a beginner-friendly guide to Docker, covering core concepts such as the Docker Engine, Dockerfile, images, and containers. It explains the roles of volumes and the Union File System in Docker's architecture."
+description = 'When switching from a personal to a company GitLab account, facing an SSH key conflict can occur. This article guides you in creating a new key for smooth connections to both accounts.'
 date = 2021-02-03
 tags = ["GitLab", "Muliple User Gitlab"]
 draft = false
