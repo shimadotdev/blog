@@ -20,6 +20,8 @@ The company I was working for had a three-story building where the investment te
 
 During lunch breaks, the usual question among us was, 'What's for lunch today?' We often forgot, and to find out the meal plan, someone had to check the paper panel.
 
+![Telegram Bot](/images/telegram_bot.jpg)
+
 ## Now, it was time to take advantage of the opportunity!
 
 It was a Saturday afternoon when the idea struck me – a Telegram bot. An exciting weekend project that also meets the needs of others. That's how the Telegram bot 'What's for lunch?' was born, a bot with four commands: today's meal, tomorrow's meal, automatic morning notifications, and automatic evening notifications. The morning after, before heading to work, I shared the bot in the technical group on Telegram. When I arrived at the company and went to the dining area for breakfast, I saw everyone talking about it and joking with me. It caught on quickly! I call this success. From then on, thanks to this small initiative, I was introduced to more people, and we had conversations.
