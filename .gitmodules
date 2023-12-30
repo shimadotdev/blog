@@ -1,0 +1,4 @@
+[submodule "shimadotdev/public"]
+	path = shimadotdev/public
+	url = git@github.com:shimadotdev/shimadotdev.github.io.git
+	branch = main
