@@ -4,7 +4,7 @@ description = 'The importance of Developer Experience (DX) in API development, e
 
 date = 2017-07-21
 draft = false
-tags= ["DX", "developer experience", "good api"]
+tags= ["DX", "Developer Experience", "Good API"]
 +++
 
 Most likely, we are all familiar with the concept of UX or "User Experience," or at least have heard its name. However, the term DX may be less common and less discussed. **Developer Experience**, or "Development Experience," is used when our product is an API, and its audience is developers and programmers.

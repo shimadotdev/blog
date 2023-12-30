@@ -3,7 +3,7 @@ title = 'Developer Lifestyle'
 description = 'Right and Wrong Habits of developers. The article provides practical insights into maintaining a balanced and healthy routine.'
 date = 2017-07-30
 draft = false
-tags= ["lifestyle", "developer lifestyle"]
+tags= ["Lifestyle", "Developer Lifestyle"]
 
 +++
 
