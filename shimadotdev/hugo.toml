@@ -1,0 +1,8 @@
+baseURL = 'https://shimadotdev.github.io/'
+languageCode = 'en-us'
+title = 'Shima Dot Dev Blog'
+theme = 'hugo-paper'
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
