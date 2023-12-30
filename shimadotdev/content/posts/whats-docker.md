@@ -1,7 +1,7 @@
 +++
 title = 'Docker Guide for Beginners: What is Docker?'
 description = 'In recent years, we have frequently heard the name “Docker.” The following article is a simple and easy guide to familiarize beginners with Docker and its basic concepts, along with exercises. Join us on this journey.'
-date = 2018-05-04
+date = 2018-08-04
 tags= ["Docker For Beginners", "Containerization", "DevOps"]
 draft = false
 +++
@@ -10,11 +10,11 @@ In recent years, we have frequently heard the name "Docker." The following artic
 
 *I would like to remind you that this series consists of three posts, and two other articles titled "Docker Guide for Beginners: Key Terms in Docker" and "Docker Guide for Beginners: Defining Dockerfile, Building Images, and Running Containers" are also available.*
 
-**What is Docker?**
+## What is Docker?
 
 According to Docker itself, Docker is a tool for building, shipping, and running applications easily. One of the key concepts in Docker is the container. Containers use virtualization at the operating system level to isolate resources. Containers and virtual machines operate similarly, but containers isolate resources at the operating system level, while virtual machines do so at the hardware level, leading to differences in performance and behavior. We will try to better understand the concept of containers by comparing these two tools.
 
-**Differences Between Virtual Machines and Containers**
+## Differences Between Virtual Machines and Containers
 
 Virtual machines, with the help of a hypervisor, abstract one server into multiple servers. The hypervisor is a software, middleware, or hardware monitor for virtual machines, placed directly on the host machine's hardware, distributing resources like RAM and CPU among virtual machines.
 
@@ -27,9 +27,13 @@ Containers require less space compared to virtual machines, allowing them to div
 Below are images from the Docker website to help us better understand.
 
 - ![Virtual Machine Configuration](/images/container-vm-whatcontainer_2-1.png)
-- ![Docker and Container Configuration](/images/docker-containerized-appliction-blue-border_2.png)
+*Virtual Machine Configuration*
 
-**Why Use Docker?**
+- ![Docker and Container Configuration](/images/docker-containerized-appliction-blue-border_2.png)
+*Docker and Container Configuration*
+
+
+## Why Use Docker?
 
 a. Docker has made the process easy for everyone by providing tools and clients to build applications quickly and easily on personal computers. This allows anyone to run their applications rapidly without the need for modifications on cloud servers or elsewhere.
 
