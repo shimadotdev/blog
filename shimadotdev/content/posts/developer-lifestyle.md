@@ -17,7 +17,7 @@ If you think you don't have time to go to the gym, you can use dumbbells at home
 Additionally, incorporating simple aerobic exercises such as walking or cycling into your daily activities is beneficial.
 
 ## 2. Sleep
-It's important to go beyond the stereotype that "programmers work at night." If you are in your teens or twenties and still not sleeping well at night, be aware that you are establishing a harmful habit in your life. Nighttime sleep enhances concentration, strengthens long-term memory, and prevents the negative effects of daily stress. Getting 7 to 9 hours of sleep per night enhances body and brain function for the next day, providing ample energy.
+It's important to go beyond the stereotype that "developers work at night." If you are in your teens or twenties and still not sleeping well at night, be aware that you are establishing a harmful habit in your life. Nighttime sleep enhances concentration, strengthens long-term memory, and prevents the negative effects of daily stress. Getting 7 to 9 hours of sleep per night enhances body and brain function for the next day, providing ample energy.
 
 Remember that the idea of "I'll stay up tonight but compensate by sleeping for 12 hours tomorrow" does not effectively counteract the negative effects of insufficient sleep.
 
