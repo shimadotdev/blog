@@ -6,9 +6,9 @@ tags= ["Workplace Visibility", "Telegram Bot"]
 draft = false
 +++
 
-Usually, when we enter new work environments, it can be challenging to present ourselves in the right and suitable light, especially if our work experience or abilities are unclear to others, and this becomes even more difficult when you are a woman in the tech field!
+Usually, when we enter new work environments, it can be challenging to present ourselves in the right  way, especially if our work experience or abilities are unclear to others, and this becomes even more difficult when you are a woman in the tech field!
 
-About four years ago, I was introduced and invited to work at my current company through the recommendation of a former colleague (Hello Khani). It seemed that no woman had been hired there before, and as a developer, I was often perceived similarly to extraterrestrial beings D:
+About four years ago, I was introduced and invited to work at my current company through the recommendation of a former colleague (Hello Khani!). It seemed that no woman had been hired there before, and as a developer, I was often perceived similarly to extraterrestrial beings D:
 
 In the early days of your job, you may struggle to easily gain the trust of your teammates. Therefore, you need to do something to be noticed: from doing something cool to simplifying a process for others. Believe me, making noise is the best way, not only in the technical department but everywhere.
 
