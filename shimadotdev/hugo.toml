@@ -1,4 +1,4 @@
-baseURL = 'https://shimadotdev.github.io/'
+baseURL = 'https://shima.dev/'
 languageCode = 'en-us'
 title = 'Shima Dot Dev Blog'
 theme = 'hugo-paper'
