@@ -11,3 +11,6 @@ googleAnalytics = "G-P8RWH4QLH7"
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.5
+[services]
+  [services.disqus]
+    shortname = 'shimadotdev'
