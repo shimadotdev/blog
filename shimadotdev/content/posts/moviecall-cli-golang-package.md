@@ -1,9 +1,9 @@
 +++
 title = 'Exploring Go: Movicall CLI App'
-description = 'IranRegions is a Laravel package offering comprehensive Iranian province and city data, including geolocation coordinates and calling codes. Ideal for Laravel developers, it simplifies the management of location-based information within applications.'
+description = 'Movicall started as a learning project to get hands-on experience with Go. It is a CLI app designed for searching movies and TV shows by their name.'
 date = 2024-06-03
 tags = ["Moviecall", "Golang Package", "Learning Golang", "Github"]
-draft = true
+draft = false
 +++
 
 
